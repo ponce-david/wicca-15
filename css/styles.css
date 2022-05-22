@@ -233,12 +233,12 @@
   grid-column: 1 / 2;
   grid-row: 3 / 5;
   background-image: -webkit-image-set(
-    url("/Imágenes/1.jpg") 1x,
-    url("/Imágenes/1.avif") 1x
+    url("/Imágenes/8.jpeg") 1x,
+    url("/Imágenes/8.avif") 1x
   );
   background-image: image-set(
-    url("/Imágenes/1.jpg") 1x,
-    url("/Imágenes/1.avif") 1x
+    url("/Imágenes/8.jpeg") 1x,
+    url("/Imágenes/8.avif") 1x
   );
 }
 
@@ -307,20 +307,20 @@
 }
 
 .img8 {
-  grid-row: 7 / 10;
-  grid-column: 2 / 3;
+  grid-row: 9 / 10;
+  grid-column: 1 / 2;
   background-image: -webkit-image-set(
-    url("/Imágenes/2.jpg") 1x,
-    url("/Imágenes/2.avif") 1x
+    url("/Imágenes/12.jpg") 1x,
+    url("/Imágenes/12.avif") 1x
   );
   background-image: image-set(
-    url("/Imágenes/2.jpg") 1x,
-    url("/Imágenes/2.avif") 1x
+    url("/Imágenes/12.jpg") 1x,
+    url("/Imágenes/12.avif") 1x
   );
 }
 
 .img10 {
-  grid-row: 7 / 9;
+  grid-row: 7 / 10;
   grid-column: 3 / 4;
   background-image: -webkit-image-set(
     url("/Imágenes/2.jpg") 1x,
@@ -332,18 +332,31 @@
   );
 }
 
-/* .img10 {
-  grid-row: 7 / 9;
-  grid-column: 3 / 4;
+.img11 {
+  grid-row: 7 / 8;
+  grid-column: 2 / 3;
   background-image: -webkit-image-set(
-    url("/Imágenes/2.jpg") 1x,
-    url("/Imágenes/2.avif") 1x
+    url("/Imágenes/13.jpg") 1x,
+    url("/Imágenes/13.avif") 1x
   );
   background-image: image-set(
-    url("/Imágenes/2.jpg") 1x,
-    url("/Imágenes/2.avif") 1x
+    url("/Imágenes/13.jpg") 1x,
+    url("/Imágenes/13.avif") 1x
   );
-} */
+}
+
+.img12 {
+  grid-row: 8 / 10;
+  grid-column: 2 / 3;
+  background-image: -webkit-image-set(
+    url("/Imágenes/9.jpeg") 1x,
+    url("/Imágenes/9.avif") 1x
+  );
+  background-image: image-set(
+    url("/Imágenes/9.jpeg") 1x,
+    url("/Imágenes/9.avif") 1x
+  );
+}
 
 /**************************/
 /* FOOTER */
